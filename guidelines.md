@@ -56,7 +56,7 @@ TABConf is a builder-first Bitcoin conference focused on technical progress, int
 If you want to run a TABConf event elsewhere:
 - Read both the [mission](https://github.com/TABConf/core-values/blob/main/mission-statement.md) and the [builder ethos](https://github.com/TABConf/core-values/blob/main/builder-ethos.md) docs. Make sure you agree with the sentiment. 
 - Reach out and chat with us, hello@tabconf.com (Email Subject: Wanting to run a TABConf)
-- Name usage (TABConf) is permitted in the form (TABConf <location>). Example: TABConf Antarctica.
+- Name usage (TABConf) is permitted in the form (TABConf \<location\>). Example: TABConf Antarctica.
 - You follow the non-negotiables
 - You are responsible for all logisitics.
 - Shared resources and support.
